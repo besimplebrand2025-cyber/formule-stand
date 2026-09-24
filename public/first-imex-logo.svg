@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800;900&amp;family=Rajdhani:wght@700&amp;display=swap');
+      .imex-bg { fill: #18446e; }
+      .imex-box { fill: none; stroke: #ffffff; stroke-width: 5.5; rx: 14px; ry: 14px; }
+      .imex-title { font-family: 'Orbitron', 'Montserrat', 'Arial Black', sans-serif; font-size: 72px; font-weight: 900; fill: #ffffff; letter-spacing: 7px; text-anchor: middle; }
+      .imex-sub { font-family: 'Orbitron', 'Rajdhani', sans-serif; font-size: 21px; font-weight: 800; fill: #ffffff; letter-spacing: 6.5px; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <!-- Blue Background Canvas matching official image -->
+  <rect width="780" height="320" rx="16" class="imex-bg" />
+
+  <!-- White Outlined Brand Box -->
+  <rect x="40" y="58" width="700" height="135" rx="16" class="imex-box" />
+
+  <!-- Main Company Name: FIRST IMEX -->
+  <text x="390" y="152" class="imex-title">FIRST IMEX</text>
+
+  <!-- Subtitle Tagline: COMPOSANTS & SYSTEMES HYDRAULIQUES -->
+  <text x="390" y="246" class="imex-sub">COMPOSANTS &amp; SYSTEMES HYDRAULIQUES</text>
+</svg>

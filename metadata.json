@@ -1,0 +1,6 @@
+{
+  "name": "StandPass - Inscription & Export Visiteurs de Stand",
+  "description": "Application d'émargement et d'enregistrement des visiteurs sur stand de salon ou foire avec export direct CSV et Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
